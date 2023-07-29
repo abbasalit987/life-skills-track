@@ -34,7 +34,7 @@ and understanding.
 Verifying the Message: Clarifying and confirming the message by restating the key points in your own words, ensuring accuracy 
 and preventing misunderstandings.
 
-Question 3: Obstacles in the Listening Process
+# Question 3: Obstacles in the Listening Process
 
 Some common obstacles in the listening process include:
 
@@ -48,7 +48,7 @@ Emotional State: Strong emotions or personal issues can affect one's ability to 
 
 Assumptions: Assuming you already know what the speaker will say may lead to misinterpretation.
 
-Question 4: Improving Listening Skills
+# Question 4: Improving Listening Skills
 
 To improve my listening skills, I'll consider the following:
 
