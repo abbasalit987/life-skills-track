@@ -68,26 +68,30 @@ In day-to-day life, I may switch to passive communication when I want to avoid c
 reactions or feeling submissive in certain situations. It involves not expressing your needs, desires, or opinions clearly, 
 potentially leading to misunderstandings or unmet expectations.
 
-Question 6: Switching to Aggressive Communication
+# Question 6: Switching to Aggressive Communication
 
-You may switch to aggressive communication when feeling frustrated, threatened, or seeking control in a situation. Aggressive communication involves asserting your needs and opinions forcefully without considering the other person's feelings, often leading to conflicts and strained relationships.
+I may switch to aggressive communication when feeling frustrated, threatened, or seeking control in a situation. Aggressive 
+communication involves asserting your needs and opinions forcefully without considering the other person's feelings, often 
+leading to conflicts and strained relationships.
 
-Question 7: Switching to Passive Aggressive Communication
+# Question 7: Switching to Passive Aggressive Communication
 
-Passive-aggressive communication can occur when feeling resentful or unable to express negative feelings directly. Instead of addressing the issue openly, individuals resort to sarcasm, gossip, taunts, the silent treatment, or other indirect methods to convey their dissatisfaction.
+Passive-aggressive communication can occur when I'm feeling resentful or unable to express negative feelings directly. 
+Instead of addressing the issue openly, I resort to sarcasm, gossip, taunts, silent treatment, or other indirect methods to 
+convey their dissatisfaction.
 
-Question 8: Making Communication Assertive
+# Question 8: Making Communication Assertive
 
-To make communication assertive, you can apply the following steps:
+To make communication assertive, I can apply the following steps:
 
-Be Clear and Direct: Express your thoughts, needs, and boundaries clearly and directly without being aggressive.
+1. Be Clear and Direct: Express your thoughts, needs, and boundaries clearly and directly without being aggressive.
 
-Use "I" Statements: Share your feelings and perspectives using "I" statements to take ownership of your emotions.
+2. Use "I" Statements: Share your feelings and perspectives using "I" statements to take ownership of your emotions.
 
-Active Listening: Listen actively to others, show empathy, and respond thoughtfully.
+3. Active Listening: Listen actively to others, show empathy, and respond thoughtfully.
 
-Respect Others: Consider the feelings and viewpoints of others, even if they differ from your own.
+4. Respect Others: Consider the feelings and viewpoints of others, even if they differ from your own.
 
-Practice Calmness: Keep emotions in check during challenging conversations to maintain composure.
+5. Practice Calmness: Keep emotions in check during challenging conversations to maintain composure.
 
-Practice Assertiveness: Rehearse assertive responses in various scenarios to build confidence.
+6. Practice Assertiveness: Rehearse assertive responses in various scenarios to build confidence.
