@@ -25,28 +25,28 @@ Here are six steps/strategies for active listening:
 
 In Reflective Listening, the key points according to Fisher's model are:
 
-> Mirroring Body Language: Paying attention to the speaker's body language and attempting to mirror or match it to establish
+Mirroring Body Language: Paying attention to the speaker's body language and attempting to mirror or match it to establish
 rapport and create a comfortable atmosphere for communication.
 
-> Reflecting Emotions: Identifying and acknowledging the emotions conveyed by the speaker and reflecting them to show empathy 
+Reflecting Emotions: Identifying and acknowledging the emotions conveyed by the speaker and reflecting them to show empathy 
 and understanding.
 
-> Verifying the Message: Clarifying and confirming the message by restating the key points in your own words, ensuring accuracy 
+Verifying the Message: Clarifying and confirming the message by restating the key points in your own words, ensuring accuracy 
 and preventing misunderstandings.
 
 Question 3: Obstacles in the Listening Process
 
 Some common obstacles in the listening process include:
 
-> Distractions: External or internal distractions can divert attention away from the speaker's message.
+Distractions: External or internal distractions can divert attention away from the speaker's message.
 
-> Prejudice and Bias: Preconceived notions or biases about the speaker or topic can hinder impartial listening.
+Prejudice and Bias: Preconceived notions or biases about the speaker or topic can hinder impartial listening.
 
-> Lack of Focus: Not giving undivided attention to the conversation can result in missing important details.
+Lack of Focus: Not giving undivided attention to the conversation can result in missing important details.
 
-> Emotional State: Strong emotions or personal issues can affect one's ability to listen objectively.
+Emotional State: Strong emotions or personal issues can affect one's ability to listen objectively.
 
-> Assumptions: Assuming you already know what the speaker will say may lead to misinterpretation.
+Assumptions: Assuming you already know what the speaker will say may lead to misinterpretation.
 
 Question 4: Improving Listening Skills
 
